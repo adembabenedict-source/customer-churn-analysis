@@ -5,10 +5,14 @@ Predicts which customers are likely to cancel their telecom subscription using m
 ### **Business Problem**
 Customer churn costs telecom companies 5-7x more than retention. This model identifies high-risk customers before they leave.
 
+![Customer Churn Distribution](./reports/figures/01_churn_distribution.png)
+
 ### **Tech Stack**
 - **Python** | **Pandas** | **NumPy** | **Scikit-learn** | **XGBoost** | **Matplotlib** | **Seaborn**
 
 ### **Results**
+![Churn by Contract Type - Month-to-month customers churn 3x more](./reports/figures/02_churn_by_contract.png)
+
 - **Model:** XGBoost Classifier
 - **F1-Score:** 87% 
 - **Accuracy:** 85%
