@@ -6,7 +6,7 @@ Predicts which customers are likely to cancel their telecom subscription using m
 Customer churn costs telecom companies 5-7x more than retention. This model identifies high-risk customers before they leave.
 
 ### **Live Demo**
-[Streamlit App](Coming soon)
+[Try the Churn Predictor App](https://customer-churn-predictor-cpdkapp2kpxkc2s9fkquv94.streamlit.app/)
 
 ![Customer Churn Distribution](./reports/figures/01_churn_distribution.png)
 
